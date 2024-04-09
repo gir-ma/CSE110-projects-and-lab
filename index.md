@@ -66,9 +66,9 @@ Being able to share and discuss code snippets with my classmates and instructors
 
 ### 5. Supported Color Models
 Lately I was practicing how to make my outputs colorful in diffent programming languages. Because understanding color models is crucial for developing user interfaces, image processing algorithms, and other visual applications.<br>
-$\color{red}{\textsf{Red text}}$<br>
-$\color{yellow}{\textsf{Yellow text}}$<br>
-$\color{green}{\textsf{Green text}}$<br>
+<span style="color:red">Red text</span><br>
+<span style="color:yellow">Yellow text</span><br>
+<span style="color:green">Green text</span>
 
 
 ### 6. External Links
@@ -79,14 +79,13 @@ GitHub: [https://github.com/MunGell/awesome-for-beginners](https://github.com/Mu
 In addition to github pages I also use other sites like [FreeCodeCamp](https://www.freecodecamp.org/).
 
 ### 7. Alerts
-$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$
-
+<p style="background-color:#FFF3CD; padding:10px; border-radius:5px;"><strong>&#9888; Warning</strong><br>
 Remember to always test your code thoroughly before deploying it to production!
+</p>
 
-$\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
-
+<p style="background-color:#D1ECF1; padding:10px; border-radius:5px;"><strong>&#9432; Note</strong><br>
 Alerts help me highlight important information, warnings, or other critical messages, ensuring that I (and my team) don't miss crucial details.
-
+</p>
 
 ### 8. Relative Links
 
@@ -185,5 +184,5 @@ Well-structured paragraphs are essential for creating a cohesive and readable do
 
 Also, section links make it easy for me to navigate through my notes and projects, ensuring I can quickly find the information I need.
 
- - [Jump to Introduction](https://github.com/gir-ma/CSE110-projects-and-lab/edit/main/index.md#introduction)<br>
- - [Jump to Images](https://github.com/gir-ma/CSE110-projects-and-lab/edit/main/index.md#9-images)
+ - [Jump to Introduction](#introduction)<br>
+ - [Jump to Images](#9-images)
