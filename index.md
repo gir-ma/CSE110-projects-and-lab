@@ -12,7 +12,7 @@ I'm a curious individual who enjoys learning new things, both in and out of the 
 
 Here are some of the pictures I took last time I went for hiking.
 
-![Profile Picture](https://example.com/profile.jpg)
+![Hiking picture](Hiking_picture.JPG)
 
 The hike was not too challenging, and the stunning views made every step worth it. As I climbed higher, I couldn't help but feel a sense of accomplishment and wonder at the beauty that surrounded me.
 
