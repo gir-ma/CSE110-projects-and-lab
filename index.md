@@ -69,7 +69,10 @@ Lately I was practicing how to make my outputs colorful in diffent programming l
 <span style="color:red">Red text</span><br>
 <span style="color:yellow">Yellow text</span><br>
 <span style="color:green">Green text</span>
-
+<font color="red">Red text</font>
+<font color="yellow">Yellow text</font>
+<font color="green">Green text</font>
+$${\color{red}Red \space Text}$$<br>
 
 ### 6. External Links
 
@@ -128,7 +131,7 @@ Although lists are great, task lists are more handy to manage those to-do lists.
 I recently completed a challenging coding assignment, and I couldn't be more excited! :smiley:  
 :rocket:
 
-Emojis add a touch of personality and fun to my writing, making it more engaging and enjoyable for my readers (and myself!).
+Emojis add a touch of personality:green_heart:  and fun to my writing, making it more engaging and enjoyable for my readers (and:point_right: myself!).
 
 ### 13. Footnotes
 
