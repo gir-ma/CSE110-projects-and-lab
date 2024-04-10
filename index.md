@@ -129,10 +129,9 @@ Although lists are great, task lists are more handy to manage those to-do lists.
 
 ### 12. Using Emojis
 
-I recently completed a challenging coding assignment, and I couldn't be more excited! :smiley:  
-:rocket:
+I recently completed a challenging coding assignment, and I couldn't be more excited!:smiley:  <br>
 
-Emojis add a touch of personality :green_heart:  and fun to my writing, making it more engaging and enjoyable for my readers (and:point_right: myself!).
+Emojis add a touch of personality:green_heart:and fun to my writing, making it more engaging and enjoyable for my readers (and:point_right:myself!).
 
 ### 13. Footnotes
 
@@ -145,7 +144,7 @@ Footnotes are a useful tool for providing additional information or referencing 
 ### 14. Hiding Content with Comments
 
 Comments allow me to include notes or temporarily hide sections of my document, making it easier to manage and maintain my code or writing.
-for example I can hide this message by typing it like this: \<!-- This section is currently under construction. Stay tuned for updates! -->
+for example I can hide this message by typing it like this:<br> \<!-- This section is currently under construction. Stay tuned for updates! -->
 
 ### 15. Ignoring Markdown Formatting \
 
