@@ -68,11 +68,12 @@ Being able to share and discuss code snippets with my classmates and instructors
 Lately I was practicing how to make my outputs colorful in diffent programming languages. Because understanding color models is crucial for developing user interfaces, image processing algorithms, and other visual applications.<br>
 <span style="color:red">Red text</span><br>
 <span style="color:yellow">Yellow text</span><br>
-<span style="color:green">Green text</span>
-<font color="red">Red text</font>
-<font color="yellow">Yellow text</font>
-<font color="green">Green text</font>
-$${\color{red}Red \space Text}$$<br>
+<span style="color:green">Green text</span><br>
+
+<font color="red">I like this</font>
+<font color="yellow">feature</font>
+<font color="green">as well</font>
+
 
 ### 6. External Links
 
@@ -131,7 +132,7 @@ Although lists are great, task lists are more handy to manage those to-do lists.
 I recently completed a challenging coding assignment, and I couldn't be more excited! :smiley:  
 :rocket:
 
-Emojis add a touch of personality:green_heart:  and fun to my writing, making it more engaging and enjoyable for my readers (and:point_right: myself!).
+Emojis add a touch of personality :green_heart:  and fun to my writing, making it more engaging and enjoyable for my readers (and:point_right: myself!).
 
 ### 13. Footnotes
 
