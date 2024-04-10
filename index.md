@@ -129,9 +129,9 @@ Although lists are great, task lists are more handy to manage those to-do lists.
 
 ### 12. Using Emojis
 
-I recently completed a challenging coding assignment, and I couldn't be more excited!:smiley:  <br>
+I recently completed a challenging coding assignment, and I couldn't be more excited! :smiley: <br>
 
-Emojis add a touch of personality:green_heart:and fun to my writing, making it more engaging and enjoyable for my readers (and:point_right:myself!).
+Emojis add a touch of personality :green_heart: and fun to my writing, making it more engaging and enjoyable for my readers (and :point_right: myself!).
 
 ### 13. Footnotes
 
